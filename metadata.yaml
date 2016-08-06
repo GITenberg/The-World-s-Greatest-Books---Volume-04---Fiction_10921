@@ -1,0 +1,44 @@
+_repo: The-World-s-Greatest-Books---Volume-04---Fiction_10921
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Mee, Arthur
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '4518'
+    url: http://www.gutenberg.org/2009/agents/4518
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
+  - agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, J. A. (John Alexander)
+    - Hammerton, Sir John Alexander
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: 'Georg Ebers: An Egyptian princess -- Marie Edgeworth: Belinda. Castle
+  Rackrent -- George Eliot: Adam Bede. Felix Holt. Romola. Silas Marner. The mill
+  on the Floss -- Erckmann-Chatrian: Waterloo -- Octave Feuillet: Romance of a poor
+  young man -- Henry Fielding: Amelia. Jonathan Wild. Joseph Andrews. Tom Jones --
+  Camille Flammarion: Urania -- De la Motte Fouqué: Undine -- Emile Gaboriau: File
+  no. 113 -- John Galt: Annals of the Parish -- Mrs. Gaskell: Cranford. Mary Barton
+  -- William Godwin: Caleb Williams -- Goethe: Sorrows of young Werther. Wilhelm Meister
+  -- Oliver Goldsmith: Vicar of Wakefield -- Edmond and Jules de Goncourt: Renée Mauperin
+  -- James Grant: Bothwell.'
+title: The World's Greatest Books — Volume 04 — Fiction
+url: http://www.gutenberg.org/ebooks/10921
